@@ -179,6 +179,5 @@ A data-driven approach like this enables companies to move from **reactive decis
 - B.Tech Student | Data Science Enthusiast  
 - Skilled in Excel, SQL, Python, Data Analysis  
 
-🔗 [LinkedIn](www.linkedin.com/in/
-yasodha-krishna-sajja-114aa72b7
+🔗 [LinkedIn](www.linkedin.com/in/yasodha-krishna-sajja-114aa72b7
 )  
